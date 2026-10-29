@@ -1,0 +1,8 @@
+{
+  "name": "Remix GeoMaster — 8-sinf Geografiya",
+  "description": "8-sinf O‘zbekistonning iqtisodiy va ijtimoiy geografiyasi fanidan 17 ta mavzu bo‘yicha 85 ta interaktiv test va bilimlarni mustahkamlash platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
